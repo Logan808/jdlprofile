@@ -1,0 +1,18 @@
+body{
+	color: blue;
+	background-color: black;
+}
+li{
+	color: yellow;
+}
+#item2{
+	color: red;
+}
+body{
+	color: aqua;
+	background-color: blue;
+	font-size: 20px;
+}
+#stuff{
+	font-size: 30px;
+}
